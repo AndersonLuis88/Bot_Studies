@@ -6,4 +6,8 @@
     <RootNamespace>Bot_Instagram</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="HtmlAgilityPack" Version="1.11.7" />
+  </ItemGroup>
+
 </Project>
