@@ -1,0 +1,8 @@
+E:\00.ESTUDOS\00.GITHUB\Bot_Studies\Bot_Instagram\Bot_Youtube_View_Selenium\bin\Debug\netcoreapp2.2\Bot_Youtube_View_Selenium.deps.json
+E:\00.ESTUDOS\00.GITHUB\Bot_Studies\Bot_Instagram\Bot_Youtube_View_Selenium\bin\Debug\netcoreapp2.2\Bot_Youtube_View_Selenium.runtimeconfig.json
+E:\00.ESTUDOS\00.GITHUB\Bot_Studies\Bot_Instagram\Bot_Youtube_View_Selenium\bin\Debug\netcoreapp2.2\Bot_Youtube_View_Selenium.runtimeconfig.dev.json
+E:\00.ESTUDOS\00.GITHUB\Bot_Studies\Bot_Instagram\Bot_Youtube_View_Selenium\bin\Debug\netcoreapp2.2\Bot_Youtube_View_Selenium.dll
+E:\00.ESTUDOS\00.GITHUB\Bot_Studies\Bot_Instagram\Bot_Youtube_View_Selenium\obj\Debug\netcoreapp2.2\Bot_Youtube_View_Selenium.csproj.CoreCompileInputs.cache
+E:\00.ESTUDOS\00.GITHUB\Bot_Studies\Bot_Instagram\Bot_Youtube_View_Selenium\obj\Debug\netcoreapp2.2\Bot_Youtube_View_Selenium.AssemblyInfoInputs.cache
+E:\00.ESTUDOS\00.GITHUB\Bot_Studies\Bot_Instagram\Bot_Youtube_View_Selenium\obj\Debug\netcoreapp2.2\Bot_Youtube_View_Selenium.AssemblyInfo.cs
+E:\00.ESTUDOS\00.GITHUB\Bot_Studies\Bot_Instagram\Bot_Youtube_View_Selenium\obj\Debug\netcoreapp2.2\Bot_Youtube_View_Selenium.csprojResolveAssemblyReference.cache
